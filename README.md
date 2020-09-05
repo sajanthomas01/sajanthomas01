@@ -1,4 +1,4 @@
-### Hi there👋, I'm Sajan Thomas(sajanthomas01) 
+### Hi there👋, I'm Sajan Thomas (sajanthomas01) 
 
 ## Full-Stack Developer from 🌴 Kerala!
 
@@ -7,7 +7,7 @@
 - 🎁 JS Guy
 - 👨‍💻 React, React Native, Alexa Skill Development, Node JS, MongoDB, Python (Bit of 🐈)
 - 🥅 2020 Goals: Learn more, Contribute more to Open Source projects
-- ⚡ Aim: Make somthing which work's for me even when i'm not working :bowtie:
+- ⚡ Aim: Make something which work's for me even when i'm not working :bowtie:
 
 ### Connect with me:
 
