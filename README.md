@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Sajan Thomas (sajanthomas01) 
 
-## Full-Stack Developer from 🌴 Kerala!
+## Full-Stack Developer from 🌴 Earth!
 
 - 🏢 Currently working at **Neoito Technologies, Trivandrum**!
 - 🐸 Being a deaf frog 🤣
