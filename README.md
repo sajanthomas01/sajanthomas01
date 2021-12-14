@@ -6,7 +6,7 @@
 - 🐸 Being a deaf frog 🤣
 - 🎁 JS Guy
 - 👨‍💻 React, React Native, Alexa Skill Development, Node JS, MongoDB, Python (Bit of 🐈)
-- 🥅 2020 Goals: Learn more, Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn more,(DevOps, Testing, Blockchain, AWS)
 - ⚡ Aim: Make something which work's for me even when i'm not working :bowtie:
 
 ### Connect with me:
