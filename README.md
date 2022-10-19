@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer from 🌴 Earth!
 
-- 🏢 Currently working at **Neoito Technologies, Trivandrum**!
+- 🏢 Working for **Epam**!
 - 🐸 Being a deaf frog 🤣
 - 🎁 JS Guy
 - 👨‍💻 React, React Native, Alexa Skill Development, Node JS, MongoDB, Python (Bit of 🐈)
