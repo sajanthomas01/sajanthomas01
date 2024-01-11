@@ -1,13 +1,13 @@
 ### Hi there👋, I'm Sajan Thomas (sajanthomas01) 
 
-## Full-Stack Developer from 🌴 Earth!
+## Full-Stack Developer
 
 - 🏢 Working for **Epam**!
 - 🐸 Being a deaf frog 🤣
 - 🎁 JS Guy
 - 👨‍💻 React, React Native, Alexa Skill Development, Node JS, MongoDB, Python (Bit of 🐈)
 - 🥅 2022 Goals: Learn more,(DevOps, Testing, Blockchain, AWS)
-- ⚡ Aim: Make something which work's for me even when i'm not working :bowtie:
+- ⚡ Aim: Make something that work's for me even when I'm not working :bowtie:
 
 ### Connect with me:
 
